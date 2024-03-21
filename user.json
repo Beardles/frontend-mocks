@@ -1,10 +1,93 @@
 {
-  "users": [
+  "staff": [
     {
       "id": 1,
       "name": "Jurgen Klopp",
-      "role": "staff",
-      "position": "manager"
+      "position": "Manager"
+    },
+    {
+      "id": 2,
+      "name": "Pep Lijnders",
+      "position": "Assistant Manager"
     }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "number": 5,
+      "name": "Ibou Konate",
+      "captain": false,
+      "positions": ["Defense"]
+    },
+    {
+      "id": 2,
+      "number": 4,
+      "name": "Virgil Van Dijk",
+      "captain": true,
+      "positions": ["Defense"]
+    },
+    {
+      "id": 3,
+      "number": 66,
+      "name": "Trent Alexander-Arnold",
+      "captain": true,
+      "positions": ["Defense", "Midfield"]
+    },
+    {
+      "id": 4,
+      "number": 26,
+      "name": "Andy Robertson",
+      "captain": false,
+      "positions": ["Defense", "Midfield"]
+    },
+    {
+      "id": 5,
+      "number": 10,
+      "name": "Alexis Mac Allister",
+      "captain": false,
+      "positions": ["Midfield"]
+    },
+    {
+      "id": 6,
+      "number": 3,
+      "name": "Wataru Endo",
+      "captain": false,
+      "positions": ["Midfield"]
+    },
+    {
+      "id": 7,
+      "number": 8,
+      "name": "Dominik Szoboszlai",
+      "captain": false,
+      "positions": ["Midfield"]
+    },
+    {
+      "id": 8,
+      "number": 11,
+      "name": "Mo Salah",
+      "captain": false,
+      "positions": ["Attacker"]
+    },
+    {
+      "id": 9,
+      "number": 9,
+      "name": "Darwin Nunez",
+      "captain": false,
+      "positions": ["Attacker"]
+    },
+    {
+      "id": 10,
+      "number": 20,
+      "name": "Diogo Jota",
+      "captain": false,
+      "positions": ["Attacker"]
+    },
+    {
+      "id": 11,
+      "number": 1,
+      "name": "Alisson Becker",
+      "captain": false,
+      "positions": ["Keeper"]
+    },
   ]
 }
