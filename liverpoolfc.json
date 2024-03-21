@@ -17,77 +17,77 @@
       "number": 5,
       "name": "Ibou Konate",
       "captain": false,
-      "positions": "defender"
+      "position": "defender"
     },
     {
       "id": 2,
       "number": 4,
       "name": "Virgil Van Dijk",
       "captain": true,
-      "positions": "defender"
+      "position": "defender"
     },
     {
       "id": 3,
       "number": 66,
       "name": "Trent Alexander-Arnold",
       "captain": true,
-      "positions": "defender"
+      "position": "defender"
     },
     {
       "id": 4,
       "number": 26,
       "name": "Andy Robertson",
       "captain": false,
-      "positions": "defender"
+      "position": "defender"
     },
     {
       "id": 5,
       "number": 10,
       "name": "Alexis Mac Allister",
       "captain": false,
-      "positions": "midfielder"
+      "position": "midfielder"
     },
     {
       "id": 6,
       "number": 3,
       "name": "Wataru Endo",
       "captain": false,
-      "positions": "midfielder"
+      "position": "midfielder"
     },
     {
       "id": 7,
       "number": 8,
       "name": "Dominik Szoboszlai",
       "captain": false,
-      "positions": "midfielder"
+      "position": "midfielder"
     },
     {
       "id": 8,
       "number": 11,
       "name": "Mo Salah",
       "captain": false,
-      "positions": "attacker"
+      "position": "attacker"
     },
     {
       "id": 9,
       "number": 9,
       "name": "Darwin Nunez",
       "captain": false,
-      "positions": "attacker"
+      "position": "attacker"
     },
     {
       "id": 10,
       "number": 20,
       "name": "Diogo Jota",
       "captain": false,
-      "positions": "attacker"
+      "position": "attacker"
     },
     {
       "id": 11,
       "number": 1,
       "name": "Alisson Becker",
       "captain": false,
-      "positions": "keeper"
+      "position": "keeper"
     }
   ]
 }
